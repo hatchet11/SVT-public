@@ -34,7 +34,7 @@ SVT is a focused, proven module within a larger public-safety platform. It is at
 
 ## Contact
 
-Serious inquiries: **ccr12capital@gmail.com**
+Serious inquiries: **hatchet412@proton.me**
 
 ---
 
