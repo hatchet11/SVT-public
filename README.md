@@ -1,5 +1,9 @@
 # SVT — Stolen Vehicle Tracking Coordinator
 
+![Status: Production](https://img.shields.io/badge/status-production-brightgreen?style=flat-square)
+![License: Proprietary](https://img.shields.io/badge/license-proprietary-red?style=flat-square)
+![Domain: Public Safety / Law Enforcement](https://img.shields.io/badge/domain-public%20safety%20%2F%20law%20enforcement-blue?style=flat-square)
+
 ### Multi-agency stolen-vehicle tracking and coordination.
 
 **Part of the FraudTrax public-safety suite** · **Status:** In production · **Seeking:** investment, partnership, or acquisition
@@ -39,3 +43,18 @@ Serious inquiries: **hatchet412@proton.me**
 ---
 
 *Public information repository — no source code. Proprietary software, all rights reserved.*
+
+---
+
+## Part of the Omega Point Solutions suite
+
+SVT is developed under the [Omega Point Solutions](https://omegapointsolutions.com) umbrella — an applied-AI and public-safety technology company built by law enforcement and intelligence veterans.
+
+**Suite products:**
+[FraudTrax](https://github.com/hatchet11/FraudTrax-public) &nbsp;·&nbsp;
+[SVT — Stolen Vehicle Tracking](https://github.com/hatchet11/SVT-public) &nbsp;·&nbsp;
+[Hatchet Trace](https://github.com/hatchet11/Hatchet-Trace-public) &nbsp;·&nbsp;
+[County EMA Operations Map](https://github.com/hatchet11/County-EMA-Operations-Map-public) &nbsp;·&nbsp;
+[EagleEye](https://github.com/hatchet11/EagleEye-public)
+
+https://omegapointsolutions.com · hatchet412@proton.me
