@@ -53,12 +53,11 @@ Serious inquiries: **hatchet412@proton.me**
 SVT is developed under the [Omega Point Solutions](https://omegapointsolutions.com) umbrella — an applied-AI and public-safety technology company built by law enforcement and intelligence veterans.
 
 **Suite products:**
-[FraudTrax](https://github.com/hatchet11/FraudTrax-public) &nbsp;·&nbsp;
-[SVT — Stolen Vehicle Tracking](https://github.com/hatchet11/SVT-public) &nbsp;·&nbsp;
-[Hatchet Trace](https://github.com/hatchet11/Hatchet-Trace-public) &nbsp;·&nbsp;
-[County EMA Operations Map](https://github.com/hatchet11/County-EMA-Operations-Map-public) &nbsp;·&nbsp;
-[EagleEye](https://github.com/hatchet11/EagleEye-public)
-
+[FraudTrax](https://github.com/Omega-Point-Solutions/FraudTrax-public) &nbsp;·&nbsp;
+[SVT — Stolen Vehicle Tracking](https://github.com/Omega-Point-Solutions/SVT-public) &nbsp;·&nbsp;
+[Hatchet Trace](https://github.com/Omega-Point-Solutions/Hatchet-Trace-public) &nbsp;·&nbsp;
+[DAN-O](https://github.com/Omega-Point-Solutions/dano-desk-public) &nbsp;·&nbsp;
+[Ice Breaker](https://github.com/Omega-Point-Solutions/icebreaker-public)
 https://omegapointsolutions.com · hatchet412@proton.me
 
 ## Security & Compliance Posture
