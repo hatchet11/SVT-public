@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/ops-logo-600.png" alt="Omega Point Solutions" width="280"></p>
+
 # SVT — Stolen Vehicle Tracking Coordinator
 
 ![Status: Production](https://img.shields.io/badge/status-production-brightgreen?style=flat-square)
