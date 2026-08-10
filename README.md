@@ -31,9 +31,11 @@ SVT is a lightweight, real-time coordination backbone for stolen-vehicle operati
 
 Captured against a demonstration environment seeded with invented data — fictional agency, `.example` domains, synthetic identifiers. **No real case data, no criminal justice information, and no personal information appears in any image.**
 
-| 60-day coordinator dashboard | Vehicles grouped by tracking tier |
-|---|---|
-| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-dashboard.png" alt="SVT — 60-day coordinator dashboard" width="420"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-tiered-queue.png" alt="SVT — Vehicles grouped by tracking tier" width="420"> |
+| 60-day coordinator dashboard | Activation queue | Vehicles grouped by tracking tier |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-dashboard.png" alt="SVT — 60-day coordinator dashboard" width="280"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-activation-queue.png" alt="SVT — Activation queue grouped by telematics provider call group" width="280"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-tiered-queue.png" alt="SVT — Vehicles grouped by tracking tier" width="280"> |
+
+The activation queue groups vehicles by telematics provider phone number, so one call clears the whole group instead of one vehicle at a time.
 
 ## Why it matters
 
