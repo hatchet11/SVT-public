@@ -27,6 +27,14 @@ SVT is a lightweight, real-time coordination backbone for stolen-vehicle operati
 - **Edge-deployed** — runs on a global serverless network with a low-latency custom API domain, so it's fast wherever the operation is.
 - **Auditable** — records and batches are tracked, not lost in a chat thread.
 
+## Screenshots
+
+Captured against a demonstration environment seeded with invented data — fictional agency, `.example` domains, synthetic identifiers. **No real case data, no criminal justice information, and no personal information appears in any image.**
+
+| 60-day coordinator dashboard | Vehicles grouped by tracking tier |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-dashboard.png" alt="SVT — 60-day coordinator dashboard" width="420"> | <img src="https://raw.githubusercontent.com/Omega-Point-Solutions/.github/main/profile/assets/screens/svt-tiered-queue.png" alt="SVT — Vehicles grouped by tracking tier" width="420"> |
+
 ## Why it matters
 
 Vehicle theft recovery is a time-and-coordination problem. SVT compresses both. It integrates with the broader **FraudTrax** investigative platform, extending fraud intelligence into active recovery operations.
